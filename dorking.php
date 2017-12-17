@@ -8,7 +8,7 @@ print "
 |_____|_|_|_|_  |  |____/|___|_| |_,_|___|_|  
             |___|                             
 
-          		Thx to: Magnom
+          		Thx to: Mr.MaGnoM
      Auto Dorking by 4WSec - Anon Cyber Team
 ";
 
